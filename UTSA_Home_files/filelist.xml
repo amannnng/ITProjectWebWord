@@ -1,5 +1,6 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../UTSA_Home.htm"/>
+ <o:File HRef="preview.wmf"/>
  <o:File HRef="item0001.xml"/>
  <o:File HRef="props002.xml"/>
  <o:File HRef="themedata.thmx"/>
@@ -14,6 +15,7 @@
  <o:File HRef="image008.jpg"/>
  <o:File HRef="image009.jpg"/>
  <o:File HRef="image010.jpg"/>
- <o:File HRef="header.htm"/>
+ <o:File HRef="image011.jpg"/>
+ <o:File HRef="image012.jpg"/>
  <o:File HRef="filelist.xml"/>
 </xml>
